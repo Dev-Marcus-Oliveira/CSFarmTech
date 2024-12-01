@@ -1,0 +1,32 @@
+@{
+    ViewBag.Title = "Catálogo de Produtos";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Utilize o layout padrão
+}
+
+<h1>Catálogo de Produtos</h1>
+
+<div class="filters">
+    <input type="text" id="search" placeholder="Buscar produtos..." />
+    <select id="category">
+        <option value="">Todas as Categorias</option>
+        <option value="1">Eletrônicos</option>
+        <option value="2">Roupas</option>
+        <!-- Adicione mais categorias conforme necessário -->
+    </select>
+    <select id="sort">
+        <option value="">Ordenar por</option>
+        <option value="alphabetical">Alfabético</option>
+        <option value="price-asc">Preço: Crescente</option>
+        <option value="price-desc">Preço: Decrescente</option>
+    </select>
+</div>
+
+<div id="productList" class="row"></div>
+
+<h2>Carrinho de Compras</h2>
+<div id="cart">
+    <div id="cartItems"></div>
+    <div id="cartTotal">Total: R$ 0,00</div>
+</div>
+
+<script src="~/Scripts/catalogo.js"></script>

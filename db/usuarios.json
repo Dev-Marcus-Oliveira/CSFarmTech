@@ -1,0 +1,112 @@
+[
+  {
+    "Id": 1,
+    "TipoUsuario": "PF",
+    "Login": "12345678901",
+    "Senha": "senha123",
+    "Email": "joao.silva@email.com",
+    "Telefone": "(11) 91234-5678",
+    "ImagemPerfil": "https://example.com/imagens/joao.jpg",
+    "DataCriacao": "2024-01-15T10:00:00",
+    "EnderecoId": 1
+  },
+  {
+    "Id": 2,
+    "TipoUsuario": "PF",
+    "Login": "23456789012",
+    "Senha": "senha456",
+    "Email": "maria.oliveira@email.com",
+    "Telefone": "(11) 99876-5432",
+    "ImagemPerfil": "https://example.com/imagens/maria.jpg",
+    "DataCriacao": "2024-01-20T12:30:00",
+    "EnderecoId": 2
+  },
+  {
+    "Id": 3,
+    "TipoUsuario": "PF",
+    "Login": "34567890123",
+    "Senha": "senha789",
+    "Email": "pedro.santos@email.com",
+    "Telefone": "(11) 93456-7890",
+    "ImagemPerfil": "https://example.com/imagens/pedro.jpg",
+    "DataCriacao": "2024-01-25T14:15:00",
+    "EnderecoId": 3
+  },
+  {
+    "Id": 4,
+    "TipoUsuario": "PF",
+    "Login": "45678901234",
+    "Senha": "senha321",
+    "Email": "ana.pereira@email.com",
+    "Telefone": "(11) 97654-3210",
+    "ImagemPerfil": "https://example.com/imagens/ana.jpg",
+    "DataCriacao": "2024-02-01T09:00:00",
+    "EnderecoId": 4
+  },
+  {
+    "Id": 5,
+    "TipoUsuario": "PF",
+    "Login": "56789012345",
+    "Senha": "senha654",
+    "Email": "luan.martins@email.com",
+    "Telefone": "(11) 92345-6789",
+    "ImagemPerfil": "https://example.com/imagens/luan.jpg",
+    "DataCriacao": "2024-02-05T08:30:00",
+    "EnderecoId": 5
+  },
+  {
+    "Id": 6,
+    "TipoUsuario": "PJ",
+    "Login": "12345678000195",
+    "Senha": "senha101",
+    "Email": "contato@empresa1.com",
+    "Telefone": "(11) 99888-8888",
+    "ImagemPerfil": "https://example.com/imagens/empresa1.jpg",
+    "DataCriacao": "2024-02-10T11:00:00",
+    "EnderecoId": 6
+  },
+  {
+    "Id": 7,
+    "TipoUsuario": "PJ",
+    "Login": "23456789000176",
+    "Senha": "senha202",
+    "Email": "contato@empresa2.com",
+    "Telefone": "(11) 97777-7777",
+    "ImagemPerfil": "https://example.com/imagens/empresa2.jpg",
+    "DataCriacao": "2024-02-15T13:00:00",
+    "EnderecoId": 7
+  },
+  {
+    "Id": 8,
+    "TipoUsuario": "PJ",
+    "Login": "34567890000187",
+    "Senha": "senha303",
+    "Email": "contato@empresa3.com",
+    "Telefone": "(11) 96666-6666",
+    "ImagemPerfil": "https://example.com/imagens/empresa3.jpg",
+    "DataCriacao": "2024-02-20T15:00:00",
+    "EnderecoId": 8
+  },
+  {
+    "Id": 9,
+    "TipoUsuario": "PJ",
+    "Login": "45678901000198",
+    "Senha": "senha404",
+    "Email": "contato@empresa4.com",
+    "Telefone": "(11) 95555-5555",
+    "ImagemPerfil": "https://example.com/imagens/empresa4.jpg",
+    "DataCriacao": "2024-02-25T16:00:00",
+    "EnderecoId": 9
+  },
+  {
+    "Id": 10,
+    "TipoUsuario": "PJ",
+    "Login": "56789012000109",
+    "Senha": "senha505",
+    "Email": "contato@empresa5.com",
+    "Telefone": "(11) 94444-4444",
+    "ImagemPerfil": "https://example.com/imagens/empresa5.jpg",
+    "DataCriacao": "2024-03-01T17:00:00",
+    "EnderecoId": 10
+  }
+]

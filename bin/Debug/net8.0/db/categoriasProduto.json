@@ -1,0 +1,6 @@
+[
+  { "Id": 1, "NomeCategoria": "Frutas" },
+  { "Id": 2, "NomeCategoria": "Verduras" },
+  { "Id": 3, "NomeCategoria": "Temperos" },
+  { "Id": 4, "NomeCategoria": "Legumes" }
+]

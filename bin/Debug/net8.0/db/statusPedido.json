@@ -1,0 +1,6 @@
+[
+  { "Id": 1, "Status": "Processando" },
+  { "Id": 2, "Status": "Enviado" },
+  { "Id": 3, "Status": "Entregue" },
+  { "Id": 4, "Status": "Cancelado" }
+]

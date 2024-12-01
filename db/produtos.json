@@ -1,0 +1,110 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Banana",
+    "Descricao": "Banana madura e doce.",
+    "Preco": 2.5,
+    "QuantidadeEstoque": 100,
+    "CategoriaId": "Fruta",
+    "ImagemUrl": "https://example.com/imagens/banana.jpg"
+  },
+  {
+    "Id": 2,
+    "Nome": "Maçã",
+    "Descricao": "Maçã fresca e crocante.",
+    "Preco": 3.0,
+    "QuantidadeEstoque": 80,
+    "CategoriaId": "Fruta",
+    "ImagemUrl": "https://example.com/imagens/maca.jpg"
+  },
+  {
+    "Id": 3,
+    "Nome": "Laranja",
+    "Descricao": "Laranja suculenta e refrescante.",
+    "Preco": 2.8,
+    "QuantidadeEstoque": 60,
+    "CategoriaId": "Fruta",
+    "ImagemUrl": "https://example.com/imagens/laranja.jpg"
+  },
+  {
+    "Id": 4,
+    "Nome": "Alface",
+    "Descricao": "Alface crocante e fresca.",
+    "Preco": 1.5,
+    "QuantidadeEstoque": 50,
+    "CategoriaId": "Verdura",
+    "ImagemUrl": "https://example.com/imagens/alface.jpg"
+  },
+  {
+    "Id": 5,
+    "Nome": "Cenoura",
+    "Descricao": "Cenouras orgânicas e crocantes.",
+    "Preco": 2.0,
+    "QuantidadeEstoque": 70,
+    "CategoriaId": "Verdura",
+    "ImagemUrl": "https://example.com/imagens/cenoura.jpg"
+  },
+  {
+    "Id": 6,
+    "Nome": "Rúcula",
+    "Descricao": "Rúcula fresca e picante.",
+    "Preco": 3.0,
+    "QuantidadeEstoque": 40,
+    "CategoriaId": "Verdura",
+    "ImagemUrl": "https://example.com/imagens/rucula.jpg"
+  },
+  {
+    "Id": 7,
+    "Nome": "Alho",
+    "Descricao": "Alho fresco, ótimo para temperar.",
+    "Preco": 1.0,
+    "QuantidadeEstoque": 200,
+    "CategoriaId": "Tempero",
+    "ImagemUrl": "https://example.com/imagens/alho.jpg"
+  },
+  {
+    "Id": 8,
+    "Nome": "Cebola",
+    "Descricao": "Cebola roxa, ideal para saladas.",
+    "Preco": 1.2,
+    "QuantidadeEstoque": 150,
+    "CategoriaId": "Tempero",
+    "ImagemUrl": "https://example.com/imagens/cebola.jpg"
+  },
+  {
+    "Id": 9,
+    "Nome": "Pimenta",
+    "Descricao": "Pimenta dedo-de-moça, para apimentar.",
+    "Preco": 2.5,
+    "QuantidadeEstoque": 80,
+    "CategoriaId": "Tempero",
+    "ImagemUrl": "https://example.com/imagens/pimenta.jpg"
+  },
+  {
+    "Id": 10,
+    "Nome": "Batata",
+    "Descricao": "Batata doce, ótima para assar.",
+    "Preco": 1.5,
+    "QuantidadeEstoque": 90,
+    "CategoriaId": "Legume",
+    "ImagemUrl": "https://example.com/imagens/batata.jpg"
+  },
+  {
+    "Id": 11,
+    "Nome": "Tomate",
+    "Descricao": "Tomate fresco e suculento.",
+    "Preco": 2.0,
+    "QuantidadeEstoque": 100,
+    "CategoriaId": "Legume",
+    "ImagemUrl": "https://example.com/imagens/tomate.jpg"
+  },
+  {
+    "Id": 12,
+    "Nome": "Abobrinha",
+    "Descricao": "Abobrinha fresca, ótima para refogar.",
+    "Preco": 2.2,
+    "QuantidadeEstoque": 75,
+    "CategoriaId": "Legume",
+    "ImagemUrl": "https://example.com/imagens/abobrinha.jpg"
+  }
+]

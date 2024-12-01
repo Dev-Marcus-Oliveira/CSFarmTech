@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Nome": "João Silva",
+    "CPF": "12345678901",
+    "DataNascimento": "1985-06-15"
+  },
+  {
+    "Id": 2,
+    "Nome": "Maria Oliveira",
+    "CPF": "23456789012",
+    "DataNascimento": "1990-03-22"
+  },
+  {
+    "Id": 3,
+    "Nome": "Carlos Santos",
+    "CPF": "34567890123",
+    "DataNascimento": "1988-12-05"
+  },
+  {
+    "Id": 4,
+    "Nome": "Ana Costa",
+    "CPF": "45678901234",
+    "DataNascimento": "1995-11-30"
+  },
+  {
+    "Id": 5,
+    "Nome": "Fernanda Almeida",
+    "CPF": "56789012345",
+    "DataNascimento": "1992-04-18"
+  }
+]

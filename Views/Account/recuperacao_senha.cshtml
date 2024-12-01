@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Recuperação de Senha</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+      .invalid-feedback { display: block; }
+      .btn-voltar { width: 35%; margin: 0 auto; display: block; }
+      .btn-confirmar { width: 50%; margin: 0 auto; display: block; }
+      .spacing-bottom { margin-bottom: 2rem; }
+      .spacing-top { margin-top: 2rem; }
+      .success-message { color: green; margin-top: 1rem; text-align: center; }
+    </style>
+  </head>
+  <body class="bg-light d-flex justify-content-center align-items-center vh-100">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-6 col-lg-4">
+          <div class="card shadow-sm">
+            <div class="card-body">
+              <h4 class="card-title text-center mb-4 spacing-bottom">Recuperação de Senha</h4>
+              <p class="text-center">Digite seu e-mail cadastrado para receber sua senha.</p>
+              <form id="recuperacaoForm" method="post" action="/Usuario/VerificarEmail">
+                <div class="mb-3">
+                  <div class="input-group">
+                    <span class="input-group-text" id="basic-addon1">
+                      <i class="bi bi-envelope"></i>
+                    </span>
+                    <input type="email" class="form-control" name="email" id="email" placeholder="Digite seu e-mail" required />
+                  </div>
+                  <span class="invalid-feedback" id="emailFeedback"></span>
+                </div>
+                <div class="d-flex justify-content-between spacing-top">
+                  <button type="button" class="btn btn-secondary btn-voltar" onclick="window.location.href='/'">Voltar</button>
+                  <button type="submit" class="btn btn-primary btn-confirmar">Enviar E-mail</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap JS e Dependências -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Ícones do Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet" />
+  </body>
+</html>

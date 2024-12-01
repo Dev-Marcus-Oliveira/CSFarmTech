@@ -1,0 +1,4 @@
+[
+  { "Id": 1, "Tipo": "Email" },
+  { "Id": 2, "Tipo": "SMS" }
+]

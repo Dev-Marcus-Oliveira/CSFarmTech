@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 6,
+    "NomeFantasia": "Tech Solutions",
+    "RazaoSocial": "Tecnologia e Soluções LTDA",
+    "CNPJ": "12345678000195",
+    "DataCriacaoEmpresa": "2010-05-10"
+  },
+  {
+    "Id": 7,
+    "NomeFantasia": "Supermercado Bom Preço",
+    "RazaoSocial": "Supermercados Bom Preço S/A",
+    "CNPJ": "23456789000176",
+    "DataCriacaoEmpresa": "2015-07-22"
+  },
+  {
+    "Id": 8,
+    "NomeFantasia": "Loja de Roupas Estilo",
+    "RazaoSocial": "Estilo Moda Ltda",
+    "CNPJ": "34567890000187",
+    "DataCriacaoEmpresa": "2018-01-15"
+  },
+  {
+    "Id": 9,
+    "NomeFantasia": "Construtora Futuro",
+    "RazaoSocial": "Construtora Futuro Ltda",
+    "CNPJ": "45678901000198",
+    "DataCriacaoEmpresa": "2012-09-30"
+  },
+  {
+    "Id": 10,
+    "NomeFantasia": "Escola de Música Harmonia",
+    "RazaoSocial": "Harmonia Educação Musical Ltda",
+    "CNPJ": "56789012000109",
+    "DataCriacaoEmpresa": "2020-11-05"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  { "Id": 1, "TipoPagamento": "Crédito" },
+  { "Id": 2, "TipoPagamento": "Débito" },
+  { "Id": 3, "TipoPagamento": "Boleto" },
+  { "Id": 4, "TipoPagamento": "PIX" }
+]

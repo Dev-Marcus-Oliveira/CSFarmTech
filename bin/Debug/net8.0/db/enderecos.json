@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 1,
+    "Rua": "Rua das Flores",
+    "Numero": "123",
+    "Bairro": "Jardim Primavera",
+    "Cidade": "São Paulo",
+    "EstadoId": 1,
+    "CEP": "01001-000",
+    "TipoEnderecoId": 1
+  },
+  {
+    "Id": 2,
+    "Rua": "Avenida Brasil",
+    "Numero": "456",
+    "Bairro": "Centro",
+    "Cidade": "Rio de Janeiro",
+    "EstadoId": 2,
+    "CEP": "20000-000",
+    "TipoEnderecoId": 2
+  },
+  {
+    "Id": 3,
+    "Rua": "Travessa da Luz",
+    "Numero": "789",
+    "Bairro": "Vila Nova",
+    "Cidade": "Belo Horizonte",
+    "EstadoId": 3,
+    "CEP": "30000-000",
+    "TipoEnderecoId": 1
+  },
+  {
+    "Id": 4,
+    "Rua": "Rua do Sol",
+    "Numero": "101",
+    "Bairro": "Praia do Flamengo",
+    "Cidade": "Salvador",
+    "EstadoId": 4,
+    "CEP": "40000-000",
+    "TipoEnderecoId": 2
+  },
+  {
+    "Id": 5,
+    "Rua": "Rua da Esperança",
+    "Numero": "202",
+    "Bairro": "Vila Velha",
+    "Cidade": "Vitória",
+    "EstadoId": 5,
+    "CEP": "29000-000",
+    "TipoEnderecoId": 1
+  },
+  {
+    "Id": 6,
+    "Rua": "Rua do Comércio",
+    "Numero": "303",
+    "Bairro": "Lapa",
+    "Cidade": "Curitiba",
+    "EstadoId": 6,
+    "CEP": "80000-000",
+    "TipoEnderecoId": 2
+  },
+  {
+    "Id": 7,
+    "Rua": "Avenida Paulista",
+    "Numero": "404",
+    "Bairro": "Bela Vista",
+    "Cidade": "São Paulo",
+    "EstadoId": 1,
+    "CEP": "01310-000",
+    "TipoEnderecoId": 1
+  },
+  {
+    "Id": 8,
+    "Rua": "Rua XV de Novembro",
+    "Numero": "505",
+    "Bairro": "Centro",
+    "Cidade": "Florianópolis",
+    "EstadoId": 7,
+    "CEP": "88000-000",
+    "TipoEnderecoId": 2
+  },
+  {
+    "Id": 9,
+    "Rua": "Rua da Independência",
+    "Numero": "606",
+    "Bairro": "Independência",
+    "Cidade": "Porto Alegre",
+    "EstadoId": 8,
+    "CEP": "90000-000",
+    "TipoEnderecoId": 1
+  },
+  {
+    "Id": 10,
+    "Rua": "Rua do Conhecimento",
+    "Numero": "707",
+    "Bairro": "Jardim das Américas",
+    "Cidade": "Cascavel",
+    "EstadoId": 9,
+    "CEP": "85800-000",
+    "TipoEnderecoId": 2
+  }
+]
